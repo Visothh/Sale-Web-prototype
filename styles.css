@@ -1,0 +1,31 @@
+body {
+  color: whitesmoke;
+  background-color: rgb(12, 59, 59);
+}
+
+.container {
+  color: rgb(208, 197, 197);
+  background-color: rgb(2, 43, 69);
+  width: 100px;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+.large-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.title {
+  align-items: center;
+  justify-content: center;
+}
+
+.line {
+  justify-items: center;
+  background-color: aliceblue;
+  width: 500px;
+  height: 5px;
+  border-radius: 20px;
+}
